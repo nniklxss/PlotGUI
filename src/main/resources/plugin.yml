@@ -1,0 +1,9 @@
+name: PlotGUI
+version: '${project.version}'
+main: at.nniklxs.Main
+api-version: 1.16
+authors: [ nniklxs ]
+description: Ein Plugin
+commands:
+  plotgui:
+    aliases: [plotmenu, plotmenü, rand, wand, flags]
